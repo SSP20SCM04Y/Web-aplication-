@@ -1,6 +1,6 @@
 # Web-aplication-
 
-iles:
+Files:
 	output.pdf
 	Project Demo (Recording)	
 	Class Diagram (Clear Version)
